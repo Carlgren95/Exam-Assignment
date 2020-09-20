@@ -1,0 +1,10 @@
+C:\Users\anton\source\repos\Examinationsuppgift\Examinationsuppgift\obj\Debug\Examinationsuppgift.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\Examinationsuppgift\Examinationsuppgift\obj\Debug\Examinationsuppgift.ServerForm.resources
+C:\Users\anton\source\repos\Examinationsuppgift\Examinationsuppgift\obj\Debug\Examinationsuppgift.Properties.Resources.resources
+C:\Users\anton\source\repos\Examinationsuppgift\Examinationsuppgift\obj\Debug\Examinationsuppgift.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\Examinationsuppgift\Examinationsuppgift\bin\Debug\Examinationsuppgift.exe.config
+C:\Users\anton\source\repos\Examinationsuppgift\Examinationsuppgift\bin\Debug\Examinationsuppgift.exe
+C:\Users\anton\source\repos\Examinationsuppgift\Examinationsuppgift\bin\Debug\Examinationsuppgift.pdb
+C:\Users\anton\source\repos\Examinationsuppgift\Examinationsuppgift\obj\Debug\Examinationsuppgift.exe
+C:\Users\anton\source\repos\Examinationsuppgift\Examinationsuppgift\obj\Debug\Examinationsuppgift.pdb
+C:\Users\anton\source\repos\Examinationsuppgift\Examinationsuppgift\obj\Debug\Examinationsuppgift.csproj.CoreCompileInputs.cache
